@@ -1,133 +1,141 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:4F46E5&height=190&section=header&text=Yash%20Chaudhary&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Product%20Engineer%20%E2%80%A2%20iOS%20%E2%80%A2%20Developer%20Tooling&descAlignY=58&descSize=17" alt="Yash Chaudhary — Product Engineer, iOS, Developer Tooling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:4F46E5&height=190&section=header&text=Yash%20Chaudhary&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Indie%20Developer%20%E2%80%A2%20Native%20Apps%20%E2%80%A2%20AI%20Tools&descAlignY=58&descSize=17" alt="Yash Chaudhary — Indie developer building native apps and AI tools" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+calm%2C+reliable+software;SwiftUI+%E2%80%A2+SwiftData+%E2%80%A2+Python+%E2%80%A2+JavaScript;Product+engineering+grounded+in+privacy+and+evidence" alt="Building calm, reliable software" />
+  <a href="https://yashchaudhary.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+software+around+real+life;Native+macOS+%E2%80%A2+iOS+%E2%80%A2+Coding-agent+tooling;Local-first%2C+private+by+default" alt="Building software around real life" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/imYashChaudhary973">
-    <img src="https://img.shields.io/badge/GitHub-imYashChaudhary973-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://yashchaudhary.dev/">
+    <img src="https://img.shields.io/badge/Website-yashchaudhary.dev-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://x.com/YashChaudhary">
+    <img src="https://img.shields.io/badge/X-@YashChaudhary-111827?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/imychaudhary22/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=imYashChaudhary973&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/imYashChaudhary973?tab=followers">
-    <img src="https://img.shields.io/github/followers/imYashChaudhary973?style=for-the-badge&logo=github&label=Followers&color=4F46E5" alt="GitHub followers" />
-  </a>
 </p>
 
 ---
 
 ## About
 
-I am a product-minded software engineer building native iOS products and reusable developer tooling. My current work spans privacy-first personal finance, deterministic financial domain logic, SwiftData persistence, release assurance, browser-based quality auditing, and portable workflows for AI coding agents.
+I'm a student and indie developer from New Delhi, India. I learn by building things slightly beyond what I already know.
 
-I care about systems that are understandable under pressure: explicit boundaries, exact data handling, recoverable failures, accessible interfaces, focused tests, and documentation that tells the truth about what is—and is not—ready.
+Most of what I make is native macOS and iOS software, plus tools for working with AI coding agents. I'm interested in software that understands context, respects privacy, and is useful in everyday life. That usually means local-first, explicit about what leaves the device, and honest in its docs about what is and isn't finished.
 
 ```yaml
-engineering_values:
-  - product thinking before implementation
-  - privacy and correctness by design
-  - deterministic logic over hidden behavior
-  - evidence-backed quality gates
+principles:
+  - local-first and private by default
+  - native where it matters
+  - humans stay in control of agents
+  - evidence over claims
   - small, reviewable, reversible changes
 ```
 
 ---
 
-## Technical Stack
+## What I'm Building
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,js,ts,nodejs,bash,git,github,apple&theme=dark&perline=9" alt="Swift, Python, JavaScript, TypeScript, Node.js, Bash, Git, GitHub, and Apple platform skills" />
-</p>
-
-| Area | Technologies and practices |
-|---|---|
-| **Apple platforms** | Swift, SwiftUI, SwiftData, Observation, Xcode, accessibility-first native UI |
-| **Automation and tooling** | Python, JavaScript, TypeScript, Node.js, Bash, structured CLI workflows |
-| **Data and architecture** | Versioned persistence, repository protocols, dependency injection, deterministic calculators |
-| **Quality engineering** | Unit and migration testing, UI/UX measurement, release gates, evidence-driven audits |
-| **Delivery** | Git, GitHub, pull-request workflows, technical documentation, safe automation |
-
----
-
-## Engineering Focus
-
-| Domain | Focus | Evidence in current work |
+| Product | What it is | Status |
 |---|---|---|
-| **iOS product engineering** | Native, local-first application architecture | SwiftUI and SwiftData financial product with typed navigation and versioned migrations |
-| **AI-assisted developer tooling** | Portable, bounded workflows for coding agents | Reusable audit skills for Codex, Claude Code, and terminal-based agents |
-| **Financial correctness** | Exact money, explicit currencies, deterministic calculations | Decimal-based ledger, budget rollover, goal progress, and Safe to Spend logic |
-| **Release assurance** | Review readiness and traceable evidence | App Store policy matrix, privacy checks, metadata review, and static scanning |
-| **UI quality and accessibility** | Measured issues instead of vague critique | Browser-based contrast, target-size, spacing, motion, focus, and overflow auditing |
+| **[ZenVoice](https://getzenvoice.com/)** | Private dictation for Mac: press a shortcut, speak, and clean text lands in any app. Runs entirely on-device with no cloud, account, or subscription. | Live · [getzenvoice.com](https://getzenvoice.com/) |
+| **[BuilderHelm](https://builderhelm.com/)** | *Your agents. You at the helm.* A local-first desktop environment for coordinating and reviewing work from multiple coding agents. | Coming soon |
+| **[ClipHelm](https://github.com/imYashChaudhary973/ClipHelm)** | *AI finds the moments. You publish them.* A native macOS clip editor that turns long videos into ranked, captioned, reframed short clips. | In development |
+| **Rove** | A native browser for people who build. | In development |
 
 ---
 
-## Featured Engineering Work
+## Open Source
 
 <details open>
-<summary><strong>ZenPense — Privacy-first personal finance for iPhone</strong></summary>
+<summary><strong>ClipHelm: AI video clipping for macOS</strong> · Swift</summary>
 
 <br />
 
-ZenPense is a native iOS finance companion designed to make everyday money quieter and more understandable. The current private codebase includes accounts, manual transactions, categories and subcategories, budgets with deterministic rollover, savings goals and contributions, Safe to Spend composition, a typed application shell, and additive SwiftData migrations.
+A native clip editor built on AVFoundation. It transcribes on-device with Apple's `SpeechAnalyzer` or through OpenRouter, finds and ranks moments by estimated viral chance, then reframes and burns in captions for 1080p/4K exports. API keys live only in the macOS Keychain, and only short audio chunks or bounded transcript excerpts are sent to models, never the original video.
 
-| | |
-|---|---|
-| **Stack** | Swift, SwiftUI, SwiftData, Observation |
-| **Architecture** | Feature-oriented UI, protocol-driven repositories, one composition root, typed routes |
-| **Reliability** | Exact decimal money, explicit currency handling, focused domain/persistence/migration tests |
-| **Privacy** | Local-first financial ledger; no live AI or backend ledger copy in the current build |
-| **Status** | Private repository · active development · not yet release-ready |
+[View repository →](https://github.com/imYashChaudhary973/ClipHelm)
 
 </details>
 
 <details>
-<summary><strong>App Store Submission Auditor — Release-readiness tooling</strong></summary>
+<summary><strong>Codex Micro: an iPhone control pad for Codex</strong> · Swift · SwiftUI</summary>
 
 <br />
 
-A reusable audit skill and static scanner for identifying App Store submission risks before review. It covers product completeness, metadata, privacy, SDK declarations, login, account deletion, payments, signing, capabilities, sensitive domains, TestFlight readiness, and evidence preparation.
+An iPhone companion that controls Codex running on your Mac. It has glanceable agent keys, a reasoning dial, steer and interrupt controls, and push-to-talk. It pairs over the LAN using a QR code and a short authentication string, pins the Mac's TLS key, and receives only status updates scoped to the projects you grant. The Mac stays authoritative, and the phone never holds credentials or runs tools.
 
-| | |
-|---|---|
-| **Stack** | Python, JavaScript, TypeScript, Bash, YAML |
-| **Delivery** | Agent skill, CLI package, checklists, prompts, report templates, policy source index |
-| **Safety** | Read-only by default; findings are evidence-linked and severity-ranked |
-| **Impact** | Turns submission preparation into a repeatable release gate without claiming guaranteed approval |
-| **Repository** | [View source](https://github.com/imYashChaudhary973/app-store-submission-auditor) · MIT |
+[View repository →](https://github.com/imYashChaudhary973/Codex-Micro-iOS)
 
 </details>
 
 <details>
-<summary><strong>UI/UX Audit — Measured interface quality for AI coding agents</strong></summary>
+<summary><strong>Agent City: a miniature internet for humans and agents</strong> · TypeScript · WebMCP</summary>
 
 <br />
 
-A portable browser audit workflow that combines screenshots with direct DOM measurements. It evaluates desktop and mobile experiences for contrast, target size, spacing, alignment, animation performance, focus visibility, reduced-motion support, horizontal overflow, and visual-system consistency.
+Built for the OpenAI WebMCP Challenge. Each website exposes typed tools through `document.modelContext`, so a browser agent and a human use the same app and share its state. An agent can plan an event across venue, catering, calendar, and budget districts and replan when constraints change. Every booking needs human approval. Runs on React 19 and a Cloudflare Worker.
 
-| | |
+[Live demo](https://agent-city.imyash-chaudhary2.workers.dev) · [View repository →](https://github.com/imYashChaudhary973/Agent-City)
+
+</details>
+
+<details>
+<summary><strong>Goals Overlay: today's goals, always on screen</strong> · Swift · AppKit</summary>
+
+<br />
+
+A macOS menu bar app that pins your goals to a floating overlay on every Space, display, and fullscreen app without taking focus. It includes a `goals` CLI, natural-language deadlines (`ship eval fri`), automatic priority escalation, day rollover, and Obsidian sync. Storage is local JSON with no account, network access, or telemetry.
+
+[View repository →](https://github.com/imYashChaudhary973/Goals-Overlay)
+
+</details>
+
+<details>
+<summary><strong>Agent tooling: UI/UX Audit &amp; App Store Submission Auditor</strong> · JavaScript · Python</summary>
+
+<br />
+
+Two portable skills for AI coding agents:
+
+- **[UI/UX Audit](https://github.com/imYashChaudhary973/ui-ux-audit)** pairs screenshots with direct DOM measurements to check contrast, target size, spacing, focus, motion, and overflow against WCAG 2.2.
+- **[App Store Submission Auditor](https://github.com/imYashChaudhary973/app-store-submission-auditor)** is a read-only release-readiness audit covering metadata, privacy, SDK declarations, payments, signing, and TestFlight.
+
+</details>
+
+<details>
+<summary><strong>More</strong></summary>
+
+<br />
+
+| Project | Description |
 |---|---|
-| **Stack** | JavaScript, browser automation, Chromium measurement APIs |
-| **Standards** | WCAG 2.2, web performance guidance, platform design principles |
-| **Output** | Prioritized blocker/major/minor findings with locations, measured evidence, and concrete fixes |
-| **Portability** | Works as an agent skill or standalone browser script across multiple coding-agent workflows |
-| **Repository** | [View source](https://github.com/imYashChaudhary973/ui-ux-audit) · MIT |
+| [NotchDeck](https://github.com/imYashChaudhary973/NotchDeck) | A native macOS command center built around the MacBook notch (early development) |
+| [SignalCheck](https://github.com/imYashChaudhary973/Early-Disease-Detection-System) | Educational early-symptom screening dashboard with explainable models trained on synthetic data |
 
 </details>
 
 ---
 
-## Selected Outcomes
+## Stack
 
-| Engineering outcome | Details |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,python,java,kotlin,react,nextjs,nodejs,postgres,cloudflare,git,xcode,figma&theme=dark&perline=14" alt="Swift, TypeScript, JavaScript, Python, Java, Kotlin, React, Next.js, Node.js, PostgreSQL, Cloudflare, Git, Xcode, Figma" />
+</p>
+
+| Area | Tools |
 |---|---|
-| **Versioned financial persistence** | Built an additive SwiftData V1→V5 migration path with durable domain boundaries and migration-focused verification |
-| **Local-first product foundation** | Implemented core account, transaction, category, budget, goal, and Home planning workflows without fabricating unavailable cloud services |
-| **Reusable release audit** | Published a structured App Store review-readiness skill with static scanning, evidence templates, and conservative safety rules |
-| **Evidence-driven UI auditing** | Published a portable audit that connects visual findings to measured browser data and recognized accessibility guidance |
+| **Apple platforms** | Swift, SwiftUI, AppKit, SwiftData, AVFoundation, Xcode |
+| **Web** | TypeScript, React, Next.js, Tailwind CSS, Cloudflare Workers |
+| **Backend & data** | Node.js, Python, PostgreSQL, SQL |
+| **AI & agents** | Codex, Claude Code, OpenRouter, WebMCP, on-device speech |
+| **Workflow** | Git, GitHub, Figma, Obsidian |
 
 ---
 
@@ -142,41 +150,33 @@ A portable browser audit workflow that combines screenshots with direct DOM meas
   <img src="https://streak-stats.demolab.com?user=imYashChaudhary973&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
 </p>
 
----
-
-## Contribution Activity
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imYashChaudhary973&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=4F46E5&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## Current Focus
+## Right Now
 
 ```yaml
-learning:
-  - deeper Swift concurrency and persistence design
-  - reliable agent workflows and evaluation
-
+shipping:
+  - ZenVoice: private, on-device dictation for Mac
 building:
-  - ZenPense, a local-first iOS finance companion
-  - release and interface-quality tooling for software teams
-
+  - BuilderHelm: one place to run and review coding agents
+  - ClipHelm: long videos in, publishable clips out
+  - Rove: a native browser for builders
 exploring:
-  - privacy-preserving product intelligence
+  - agent interfaces humans can trust (WebMCP, approvals, scoped grants)
   - deterministic systems around probabilistic AI
-  - stronger automated quality gates
 ```
 
 ---
 
-## Connect
-
 <p align="center">
-  <a href="https://github.com/imYashChaudhary973">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20the%20work-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Follow Yash Chaudhary on GitHub" />
-  </a>
+  <a href="https://yashchaudhary.dev/"><strong>yashchaudhary.dev</strong></a> ·
+  <a href="https://x.com/YashChaudhary">X</a> ·
+  <a href="https://www.linkedin.com/in/imychaudhary22/">LinkedIn</a> ·
+  <a href="https://getzenvoice.com/">ZenVoice</a>
 </p>
 
 <p align="center">
