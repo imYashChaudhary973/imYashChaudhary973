@@ -1,104 +1,68 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:4F46E5&height=190&section=header&text=Yash%20Chaudhary&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Indie%20Developer%20%E2%80%A2%20Native%20Apps%20%E2%80%A2%20AI%20Tools&descAlignY=58&descSize=17" alt="Yash Chaudhary — Indie developer building native apps and AI tools" />
-</p>
-
-<p align="center">
   <a href="https://yashchaudhary.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+software+around+real+life;Native+macOS+%E2%80%A2+iOS+%E2%80%A2+Coding-agent+tooling;Local-first%2C+private+by+default" alt="Building software around real life" />
+    <img src="assets/header.svg" width="100%" alt="Hey, I'm Yash. Student and indie developer from New Delhi, India. I build native Mac and iPhone apps, and tools for AI coding agents. Now shipping: ZenVoice." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://yashchaudhary.dev/"><img src="https://img.shields.io/badge/Website-yashchaudhary.dev-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://x.com/builderhelmai"><img src="https://img.shields.io/badge/X-@builderhelmai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @builderhelmai" /></a>
-  <a href="https://www.linkedin.com/in/imychaudhary22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=imYashChaudhary973&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <a href="https://yashchaudhary.dev/"><img src="assets/btn-website.svg" height="58" alt="Website: yashchaudhary.dev" /></a>
+  <a href="https://x.com/builderhelmai"><img src="assets/btn-x.svg" height="58" alt="X: @builderhelmai" /></a>
+  <a href="https://www.linkedin.com/in/imychaudhary22/"><img src="assets/btn-linkedin.svg" height="58" alt="LinkedIn" /></a>
 </p>
 
 <br />
 
-## 👋 About
-
-I'm a student and indie developer from **New Delhi, India**. I learn by building things slightly beyond what I already know.
-
-Most of what I make is **native macOS and iOS software** and **tooling for AI coding agents**. I care about software that understands context, respects privacy, and is useful in everyday life.
-
-- 🔒 **Local-first:** data stays on the device unless there's a clear reason for it not to
-- 🧭 **Humans at the helm:** agents get scoped permissions, and risky actions need approval
-- 🧪 **Evidence over claims:** tests, measurements, and docs that say what isn't finished yet
-
-<br />
-
-## 🚀 What I'm Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://getzenvoice.com/">ZenVoice</a></h3>
-      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live" />
-      <img src="https://img.shields.io/badge/macOS-native-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-      <p>Private dictation for Mac. Press a shortcut, speak, and clean text lands in any app. Runs entirely on-device: no cloud, no account, no subscription.</p>
-      <a href="https://getzenvoice.com/"><b>getzenvoice.com →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧑‍✈️ <a href="https://builderhelm.com/">BuilderHelm</a></h3>
-      <img src="https://img.shields.io/badge/status-coming%20soon-F59E0B?style=flat-square" alt="Coming soon" />
-      <img src="https://img.shields.io/badge/macOS-desktop-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-      <p><i>Your agents. You at the helm.</i> A local-first desktop environment for running, coordinating, and reviewing work from multiple coding agents.</p>
-      <a href="https://builderhelm.com/"><b>builderhelm.com →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/imYashChaudhary973/ClipHelm">ClipHelm</a></h3>
-      <img src="https://img.shields.io/badge/status-in%20development-8B5CF6?style=flat-square" alt="In development" />
-      <img src="https://img.shields.io/badge/macOS-native-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-      <p><i>AI finds the moments. You publish them.</i> Turns long videos into ranked, captioned, reframed short clips with 1080p and 4K export.</p>
-      <a href="https://github.com/imYashChaudhary973/ClipHelm"><b>View source →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Rove</h3>
-      <img src="https://img.shields.io/badge/status-in%20development-8B5CF6?style=flat-square" alt="In development" />
-      <img src="https://img.shields.io/badge/macOS-native-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-      <p>A native browser for people who build.</p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 🛠️ Open Source
-
-| Project | What it does | Built with |
-|:--|:--|:--|
-| 🎬 **[ClipHelm](https://github.com/imYashChaudhary973/ClipHelm)** | AI video clipping for macOS. Transcribes on-device or through OpenRouter, ranks moments, and burns in captions | Swift · AVFoundation |
-| 📱 **[Codex Micro](https://github.com/imYashChaudhary973/Codex-Micro-iOS)** | iPhone control pad for Codex on your Mac, paired over a secure LAN connection. The phone never holds credentials | Swift · SwiftUI |
-| 🏙️ **[Agent City](https://github.com/imYashChaudhary973/Agent-City)** | A miniature internet where humans and AI agents share state through WebMCP tools · [Live demo](https://agent-city.imyash-chaudhary2.workers.dev) | TypeScript · React · Cloudflare |
-| 🎯 **[Goals Overlay](https://github.com/imYashChaudhary973/Goals-Overlay)** | Pins today's goals above every app and Space, with a `goals` CLI and natural-language deadlines | Swift · AppKit |
-| 🔍 **[UI/UX Audit](https://github.com/imYashChaudhary973/ui-ux-audit)** | Interface audits for coding agents that measure contrast, target size, focus, and overflow against WCAG 2.2 | JavaScript |
-| 🍎 **[App Store Submission Auditor](https://github.com/imYashChaudhary973/app-store-submission-auditor)** | Read-only App Store release-readiness checks for coding agents | Python |
-| 🖥️ **[NotchDeck](https://github.com/imYashChaudhary973/NotchDeck)** | A command center built around the MacBook notch *(early development)* | Swift |
-| 🩺 **[SignalCheck](https://github.com/imYashChaudhary973/Early-Disease-Detection-System)** | Educational symptom-screening dashboard with explainable models trained on synthetic data | Python |
-
-<br />
-
-## 🧰 Tech Stack
+<img src="assets/h-building.svg" height="72" alt="What I'm building" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,python,java,kotlin,react,nextjs,nodejs,postgres,cloudflare,git,xcode,figma&theme=dark&perline=7" alt="Swift, TypeScript, JavaScript, Python, Java, Kotlin, React, Next.js, Node.js, PostgreSQL, Cloudflare, Git, Xcode, Figma" />
+  <a href="https://getzenvoice.com/"><img src="assets/note-zenvoice.svg" width="48%" alt="ZenVoice (live): private dictation for Mac. No cloud, no account, no subscription." /></a>
+  <a href="https://builderhelm.com/"><img src="assets/note-builderhelm.svg" width="48%" alt="BuilderHelm (coming soon): one local-first desktop app to run, coordinate, and review coding agents." /></a>
+  <a href="https://github.com/imYashChaudhary973/ClipHelm"><img src="assets/note-cliphelm.svg" width="48%" alt="ClipHelm (in development): long videos in, captioned and reframed short clips out." /></a>
+  <img src="assets/note-rove.svg" width="48%" alt="Rove (in development): a native browser for people who build." />
 </p>
-
-| Area | Tools |
-|:--|:--|
-| **Apple platforms** | Swift, SwiftUI, AppKit, SwiftData, AVFoundation, Xcode |
-| **Web** | TypeScript, React, Next.js, Tailwind CSS, Cloudflare Workers |
-| **Backend & data** | Node.js, Python, PostgreSQL, SQL |
-| **AI & agents** | Codex, Claude Code, OpenRouter, WebMCP, on-device speech |
-| **Workflow** | Git, GitHub, Figma, Obsidian |
 
 <br />
 
-## 📊 GitHub Stats
+<img src="assets/h-open-source.svg" height="72" alt="Open source" />
+
+<p align="center">
+  <a href="https://github.com/imYashChaudhary973/ClipHelm"><img src="assets/card-cliphelm.svg" width="48%" alt="ClipHelm: AI video clipping for macOS" /></a>
+  <a href="https://github.com/imYashChaudhary973/Codex-Micro-iOS"><img src="assets/card-codex-micro.svg" width="48%" alt="Codex Micro: an iPhone control pad for Codex on your Mac" /></a>
+  <a href="https://github.com/imYashChaudhary973/Agent-City"><img src="assets/card-agent-city.svg" width="48%" alt="Agent City: a miniature internet for humans and AI agents" /></a>
+  <a href="https://github.com/imYashChaudhary973/Goals-Overlay"><img src="assets/card-goals-overlay.svg" width="48%" alt="Goals Overlay: today's goals above every app" /></a>
+  <a href="https://github.com/imYashChaudhary973/ui-ux-audit"><img src="assets/card-ui-ux-audit.svg" width="48%" alt="UI/UX Audit: measured interface audits for coding agents" /></a>
+  <a href="https://github.com/imYashChaudhary973/app-store-submission-auditor"><img src="assets/card-app-store-auditor.svg" width="48%" alt="App Store Submission Auditor: release-readiness checks for coding agents" /></a>
+  <a href="https://github.com/imYashChaudhary973/NotchDeck"><img src="assets/card-notchdeck.svg" width="48%" alt="NotchDeck: a command center around the MacBook notch" /></a>
+  <a href="https://github.com/imYashChaudhary973/Early-Disease-Detection-System"><img src="assets/card-signalcheck.svg" width="48%" alt="SignalCheck: educational symptom-screening dashboard" /></a>
+</p>
+
+<p align="center">
+  <sub>✏️ Psst, Agent City is live. <a href="https://agent-city.imyash-chaudhary2.workers.dev"><b>Try the demo →</b></a></sub>
+</p>
+
+<br />
+
+<img src="assets/h-toolbox.svg" height="72" alt="My toolbox" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,python,java,kotlin,react,nextjs,nodejs,postgres,cloudflare,git,figma&perline=7" alt="Swift, TypeScript, JavaScript, Python, Java, Kotlin, React, Next.js, Node.js, PostgreSQL, Cloudflare, Git, Figma" />
+</p>
+
+<p align="center">
+  <img src="assets/toolbox.svg" width="100%" alt="Apple: Swift, SwiftUI, AppKit, SwiftData, AVFoundation, Xcode. Web: TypeScript, React, Next.js, Tailwind CSS, Cloudflare Workers. Backend: Node.js, Python, PostgreSQL, SQL. AI and agents: Codex, Claude Code, OpenRouter, WebMCP, on-device speech. Workflow: Git, GitHub, Figma, Obsidian." />
+</p>
+
+<br />
+
+<img src="assets/h-now.svg" height="72" alt="Right now" />
+
+<p align="center">
+  <img src="assets/todo.svg" width="72%" alt="To-do: shipped ZenVoice (it's live!); launch BuilderHelm; finish ClipHelm; build Rove, a browser for builders; make agent UIs humans can actually trust." />
+</p>
+
+<br />
+
+<img src="assets/h-stats.svg" height="72" alt="GitHub stats" />
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imYashChaudhary973&theme=tokyonight" alt="GitHub profile details and contribution graph" />
@@ -115,32 +79,12 @@ Most of what I make is **native macOS and iOS software** and **tooling for AI co
 
 <br />
 
-## 🔭 Right Now
-
-```yaml
-shipping:  ZenVoice      # private, on-device dictation for Mac
-building:
-  - BuilderHelm          # one place to run and review coding agents
-  - ClipHelm             # long videos in, publishable clips out
-  - Rove                 # a native browser for builders
-exploring:
-  - agent interfaces humans can trust (WebMCP, approvals, scoped grants)
-  - deterministic systems around probabilistic AI
-```
-
-<br />
-
 <p align="center">
-  <a href="https://yashchaudhary.dev/"><b>Website</b></a> &nbsp;•&nbsp;
-  <a href="https://x.com/builderhelmai"><b>X</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/imychaudhary22/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="https://getzenvoice.com/"><b>ZenVoice</b></a>
+  <img src="assets/footer.svg" width="100%" alt="Build systems that remain trustworthy when the demo is over. — Yash" />
 </p>
 
 <p align="center">
-  <i>Build systems that remain trustworthy when the demo is over.</i>
+  <img src="https://komarev.com/ghpvc/?username=imYashChaudhary973&label=visitors&color=7C3AED&style=flat-square" alt="Profile visitors" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:312E81&height=120&section=footer" alt="" />
-</p>
+<!-- Hand-drawn assets are generated by scripts/generate.py -->
