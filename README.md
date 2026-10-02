@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:4F46E5&height=190&section=header&text=Yash%20Chaudhary&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Indie%20Developer%20%E2%80%A2%20macOS%20%26%20iOS%20%E2%80%A2%20AI%20Developer%20Tooling&descAlignY=58&descSize=17" alt="Yash Chaudhary — Indie Developer, macOS and iOS, AI Developer Tooling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:4F46E5&height=190&section=header&text=Yash%20Chaudhary&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Indie%20Developer%20%E2%80%A2%20macOS%20%E2%80%A2%20iOS%20%E2%80%A2%20AI%20Developer%20Tooling&descAlignY=58&descSize=17" alt="Yash Chaudhary — Indie Developer, macOS, iOS, AI Developer Tooling" />
 </p>
 
 <p align="center">
